@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TimeManage/static/css/main.f75f4d7c.css",
-    "main.js": "/TimeManage/static/js/main.ce810f29.js",
+    "main.css": "/TimeManage/static/css/main.213aa41d.css",
+    "main.js": "/TimeManage/static/js/main.d57ecb7e.js",
     "static/js/787.05b8f479.chunk.js": "/TimeManage/static/js/787.05b8f479.chunk.js",
     "index.html": "/TimeManage/index.html",
-    "main.f75f4d7c.css.map": "/TimeManage/static/css/main.f75f4d7c.css.map",
-    "main.ce810f29.js.map": "/TimeManage/static/js/main.ce810f29.js.map",
+    "main.213aa41d.css.map": "/TimeManage/static/css/main.213aa41d.css.map",
+    "main.d57ecb7e.js.map": "/TimeManage/static/js/main.d57ecb7e.js.map",
     "787.05b8f479.chunk.js.map": "/TimeManage/static/js/787.05b8f479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f75f4d7c.css",
-    "static/js/main.ce810f29.js"
+    "static/css/main.213aa41d.css",
+    "static/js/main.d57ecb7e.js"
   ]
 }
